@@ -1,0 +1,1 @@
+document.write('content from content.es6!');
